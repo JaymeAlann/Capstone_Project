@@ -21,7 +21,9 @@ depends on the combination of the attacking piece  and the defending piece shown
 successful, the attacking piece will move to the captured piece destination, if the attack is unsuccessful however; the piece
 will remain in its original location. 
 <br />
+<br />
 ![Capture Table](./src/chess/gui/images/CaptureTable.png)
+<br />
 <br />
 
 
