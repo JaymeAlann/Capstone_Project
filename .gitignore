@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/.idea/
+.project
+.settings/
+.vscode
+/out/
+*.iml
+.DS_Store
