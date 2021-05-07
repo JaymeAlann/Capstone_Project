@@ -14,7 +14,7 @@ three corp each with their own commanders. These armies follow the following rul
 >- When a Bishop is captured, its command pieces revert to the command of the King, but the command authority is lost. 
 >- The game ends similar to that of normal chess, When the King is captured. 
 
-###Capturing Pieces:
+### Capturing Pieces:
 In this game, the normal implementation of capturing any piece that is attacked is changed to add some uncertainty to each 
 action. The Attacking player must roll a dice to determine if a capture is successful. The die roll needed to capture a piece
 depends on the combination of the attacking piece  and the defending piece shown in the table below. When the attack is 
